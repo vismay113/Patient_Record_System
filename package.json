@@ -1,0 +1,22 @@
+{
+  "name": "patient_record_system",
+  "version": "1.0.0",
+  "description": "record system",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vismay113/Patient_Record_System.git"
+  },
+  "author": "vismay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vismay113/Patient_Record_System/issues"
+  },
+  "homepage": "https://github.com/vismay113/Patient_Record_System#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
